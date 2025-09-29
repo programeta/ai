@@ -1,0 +1,24 @@
+{
+  "name": "programeta/ai",
+  "description": "Installs and configures tipical AI modules.",
+  "x-documentation": [
+    "This modules are basics, don't have any external dependency"
+  ],
+  "keywords": [
+    "module",
+    "Drupal recipes",
+    "drupal recipe"
+  ],
+  "type": "drupal-recipe",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Programeta",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "drupal/ai": "^1.0",
+    "drupal/ai_seo": "^2.2"
+  }
+}

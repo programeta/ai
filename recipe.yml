@@ -1,0 +1,12 @@
+name: 'AI Basic Helper'
+description: 'Installs common AI modules.'
+type: recipe
+
+install:
+  # Install primary module.
+  - ai
+  - ai_ckeditor
+  - ai_logging
+  - ai_external_moderation
+  - ai_image_alt_text
+  - ai_seo
